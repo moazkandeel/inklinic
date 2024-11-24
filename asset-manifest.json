@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/inklinic/static/css/main.0424fdda.css",
+    "main.js": "/inklinic/static/js/main.6119088b.js",
+    "static/js/453.60e7eee2.chunk.js": "/inklinic/static/js/453.60e7eee2.chunk.js",
+    "static/media/Inklinic mp4.mp4": "/inklinic/static/media/Inklinic mp4.051a9f8cbc0b41d55337.mp4",
+    "static/media/14.mp4": "/inklinic/static/media/14.5bb2d471b4edd7a75494.mp4",
+    "static/media/fa-solid-900.ttf": "/inklinic/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/inklinic/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/inklinic/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/7.jpg": "/inklinic/static/media/7.186aa45bfac6bd22a5a4.jpg",
+    "static/media/fa-brands-400.woff2": "/inklinic/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/8.jpg": "/inklinic/static/media/8.32b1ee49685732dc2492.jpg",
+    "static/media/4.jpg": "/inklinic/static/media/4.1da2abc8d3544e00c092.jpg",
+    "static/media/1.jpg": "/inklinic/static/media/1.0807e65ebf49aec841fb.jpg",
+    "static/media/6.jpg": "/inklinic/static/media/6.1503d87a879697707fea.jpg",
+    "static/media/2.jpg": "/inklinic/static/media/2.e1d47da223c83b365a82.jpg",
+    "static/media/fa-regular-400.ttf": "/inklinic/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/5.jpg": "/inklinic/static/media/5.761b9ad6f2d309ec0add.jpg",
+    "static/media/9.jpg": "/inklinic/static/media/9.c17ce16b5da2b61efcae.jpg",
+    "static/media/15.jpg": "/inklinic/static/media/15.289b340488fe27289dbf.jpg",
+    "static/media/14.jpg": "/inklinic/static/media/14.4f35adfec2f0916f102a.jpg",
+    "static/media/10.jpg": "/inklinic/static/media/10.b943d5971f9193a28058.jpg",
+    "static/media/Inklinic.jpg": "/inklinic/static/media/Inklinic.47b6d041ba1e350e04e6.jpg",
+    "static/media/3.jpg": "/inklinic/static/media/3.d3a84231ec916f8196b4.jpg",
+    "static/media/bg.jpg": "/inklinic/static/media/bg.1433c2cba5344b73659c.jpg",
+    "static/media/fa-regular-400.woff2": "/inklinic/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/inklinic/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/inklinic/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/slick.svg": "/inklinic/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/inklinic/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/inklinic/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/inklinic/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/inklinic/index.html",
+    "main.0424fdda.css.map": "/inklinic/static/css/main.0424fdda.css.map",
+    "main.6119088b.js.map": "/inklinic/static/js/main.6119088b.js.map",
+    "453.60e7eee2.chunk.js.map": "/inklinic/static/js/453.60e7eee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0424fdda.css",
+    "static/js/main.6119088b.js"
+  ]
+}
